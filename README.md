@@ -1,2 +1,2 @@
 # nadir
-nadir -- lowest point
+nadir -- lowest
